@@ -1,6 +1,6 @@
-- What is a scripting language?
-- What is a variable?
-- What is a string? An array? A boolean?
+- What is a scripting language? A scripting language is a language that can be interperted without being compiled.
+- What is a variable? An variable is an element that can vary as far a changes are concerned.
+- What is a string? An array? A boolean? a string is a variable that is a 
 - What are events?
 - Link to codeacademy profile: 
 - Code for Project Euler solution in file `project_euler_1.js`.
